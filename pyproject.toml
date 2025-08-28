@@ -1,0 +1,23 @@
+[project]
+name = "Meu_pacote"
+version = "0.1.0"
+description = "Pacote criado para a realização dos exercícios do curso de introdução a linguagem Python com o professor Gustavo Guanabara do Curso Em Vídeo."
+authors = [
+    { name = "Icaro Cesar", email = "icarosouza04@outlook.com" }
+]
+
+readme = "README.md"
+requires-python = ">=3.13"
+
+dependencies = [
+    "emoji>=2.14.1",
+    "pygame>=2.6.1",
+    "requests>=2.32.5",
+]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["Meu_pacote"]

@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: Meu_pacote
+Version: 0.1.0
+Summary: Pacote criado para a realização dos exercícios do curso de introdução a linguagem Python com o professor Gustavo Guanabara do Curso Em Vídeo.
+Author-email: Icaro Cesar <icarosouza04@outlook.com>
+Requires-Python: >=3.13
+Description-Content-Type: text/markdown
+Requires-Dist: emoji>=2.14.1
+Requires-Dist: pygame>=2.6.1
+Requires-Dist: requests>=2.32.5
