@@ -1,0 +1,5 @@
+# Ignorar arquivos:
+
+.venv
+__pycache__/
+*.egg-info/
