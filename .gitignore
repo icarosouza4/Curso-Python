@@ -1,5 +1,7 @@
 # Ignorar arquivos:
 
 .venv
+Meu_pacote.egg-info
+pyproject.toml
+uv.lock
 __pycache__/
-*.egg-info/
