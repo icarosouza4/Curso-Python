@@ -1,7 +1,6 @@
-# Ignorar arquivos:
-
-.venv
-Meu_pacote.egg-info
+# Ignorar pasta de metadados do pacote
+*.egg-info/
+# Arquivo de configuração do projeto
 pyproject.toml
+# Arquivo de lock do uv
 uv.lock
-__pycache__/
