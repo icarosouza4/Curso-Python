@@ -4,9 +4,7 @@ Este repositório contém todos os exercícios realizados durante o **Curso de I
 
 Este, por sua vez, possui o objetivo de registrar minha evolução no aprendizado da linguagem, praticar conceitos básicos e servir de material de consulta no futuro.
 
----
-
-## Conteúdo do curso:
+## Conteúdo do curso
 O curso aborda os seguintes conteúdos:
 
 - Introdução à linguagem;
@@ -20,5 +18,3 @@ O curso aborda os seguintes conteúdos:
 - Funções;
 - Módulos e bibliotecas básicas;
 - Tratamento de erros.
-
----
